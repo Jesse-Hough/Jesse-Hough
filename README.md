@@ -3,6 +3,6 @@
 <h2>Projects:</h2>
 
 - <b>Java</b>
-  - <a href="url"></a>
+  - <a href="https://github.com/Jesse-Hough/Java-Dictionary-Project" target="_blank">Java Dictionary Project</a>
 - <b>PostgreSQL</b>
   - 
