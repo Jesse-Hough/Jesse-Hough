@@ -11,4 +11,4 @@
   - 
 
 - <b>HTML/CSS</b>
-  - <a href="">HTML/CSS Resume</a>
+  - <a href="https://github.com/Jesse-Hough/HTML-CSS-Resume">HTML/CSS Resume</a>
