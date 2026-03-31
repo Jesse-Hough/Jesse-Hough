@@ -4,7 +4,6 @@
 
 - <b>Angular Projects</b>
   - <a href="https://jesse-hough.github.io/Portfolio_Website" target="_blank">Click Here To View My Website</a>
-  - <a href="https://github.com/Jesse-Hough/Jesse-Hough.github.io" target="_blank">Angular Resume</a>  
 
 - <b>Java</b>
   - <a href="https://github.com/Jesse-Hough/Java-Dictionary-Project" target="_blank">Java Dictionary Project</a>
